@@ -1,0 +1,10 @@
+[
+  {
+    "url": "C:\\Users\\User\\Documents\\VertexDownhole\\Altiums\\(DC2027A-B) LTC4364DE-2 Demoboard 12V Surge Stopper with Ideal Diode, Auto Retry",
+    "note": "DC2027A-B LTC4364DE-2 Demo Board project – Altium files for a 12V surge stopper with ideal diode and auto-retry."
+  },
+  {
+    "url": "C:\\Users\\User\\Documents\\VertexDownhole\\Hi-Temp (Low Temp for now) Vin = 80V(Max)\\snly473\\BSR049A",
+    "note": "High-temp DC project, 80V input, downhole rated, temp-limited design."
+  }
+]
